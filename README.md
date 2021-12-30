@@ -22,7 +22,8 @@ The programming language in use is python, and the framework in use is Keras. Th
 ### Training of Facial Recognition Models
 
 The training of the facial recognition model includes loading the face mask data set, then training the face mask classifier using Keras/Tensorflow and then serialize the face mask classifier to the disk. The data is split into testing and training sets using train_test_split from scikitlearn. This is the first stage of the project.
-Application of the Facial Recognition System
+
+### Application of the Facial Recognition System
 
 The application of the facial recognition system is the second stage of the project. It involves Loading the face mask classifier from the disk and and detecting faces from the image/video stream. From this stream, each face ROI is extracted  and the face mask classifies is apllied to each face mask ROI giving a positive (“Mask”) or negative (“No Mask”) result. This result is then shown on the screen to the user.
  
