@@ -29,8 +29,12 @@ The application of the facial recognition system is the second stage of the proj
 
 ## RESULTS
 
-Figure above shows the training accuracy vs training loss graph
+![Training Loss and Accuracy Plot](https://github.com/yatin2901/facemask/blob/main/plot.png)
+
+Figure above shows the training accuracy vs training loss graph.
+
 ![Project Implementation](https://github.com/yatin2901/facemask/blob/main/Model.png)
+
 Image above shows the implementation of the model in real-life.
  
 
