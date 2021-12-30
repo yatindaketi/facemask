@@ -40,9 +40,9 @@ Image above shows the implementation of the model in real-life.
 
 ## FUTURE WORKS
 
-	This prototype system allows for the facial recognition of people with and without a mask and could be used as a low computational consumption proposal for personnel access control. 
-	It can be implemented on to a webpage or an application for publishing and public use.
-	It could also be worked upon to perform various other functions that require image processing and facial recognition, for example, it is possible to know their identity. This is if the face is within the selected database. 
+1. This prototype system allows for the facial recognition of people with and without a mask and could be used as a low computational consumption proposal for personnel access control. 
+2. It can be implemented on to a webpage or an application for publishing and public use.
+3. It could also be worked upon to perform various other functions that require image processing and facial recognition, for example, it is possible to know their identity. This is if the face is within the selected database. 
 
 ## MEMBERS
 
